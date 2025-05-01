@@ -1,15 +1,15 @@
-# Juego-prueba ¡Hola, bienvenido a mi juego!
+## 🛑 Juego-Adivina el numero secreto ¡Hola, bienvenido a mi juego! 🛑
 
-## Herramientas utilizadas:
+Este programa consiste en advivinar el número secreto generado por la aplicación de forma aleatoria.
 
-* HTML
+## 🧰 Herramientas utilizadas:
 
-* CSS
+🟢 HTML
 
-* Java Script
+🟢 CSS
+
+🟢 Java Script
 
 ## Hecho por:
 
-### Yorman Corba
-
-### Linkedin: www.linkedin.com/in/yorman-corba-143b13220
+👾 Yorman Corba 👾 - 💼 Linkedin: www.linkedin.com/in/yorman-corba-143b13220
